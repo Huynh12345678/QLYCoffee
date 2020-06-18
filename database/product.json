@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c7c"},"IDProduct":"CF01","ProductName":"Đen đá","IDType":"T01","Price":20000}
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c7f"},"IDProduct":"CF02","ProductName":"Đen đá","IDType":"T02","Price":30000}
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c82"},"IDProduct":"CF03","ProductName":"Đen đá","IDType":"T03","Price":35000}
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c85"},"IDProduct":"CF04","ProductName":"Nâu đá","IDType":"T01","Price":20000}
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c88"},"IDProduct":"CF05","ProductName":"Nâu đá","IDType":"T02","Price":30000}
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c8b"},"IDProduct":"CF06","ProductName":"Nâu đá","IDType":"T03","Price":35000}
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c8e"},"IDProduct":"ES01","ProductName":"Espresso","IDType":"T01","Price":25000}
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c91"},"IDProduct":"ES02","ProductName":"Espresso","IDType":"T02","Price":35000}
+{"_id":{"$oid":"5edbae184bb4d0f78fd22c94"},"IDProduct":"ES03","ProductName":"Espresso","IDType":"T03","Price":40000}
