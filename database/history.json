@@ -38,7 +38,4 @@
 {"_id":{"$oid":"5eeae839280b4c5736a09a61"},"STT":38,"IDHĐ":"HD8190","IDProduct":"K005","Quantity":1,"Price":15000,"TimeHĐ":"11:06:17","DateHĐ":"18/6/2020","username":"12345"}
 {"_id":{"$oid":"5eeaeac7280b0c86458f11e4"},"STT":39,"IDHĐ":"HD1724","IDProduct":"ES01","Quantity":1,"Price":25000,"TimeHĐ":"11:17:11","DateHĐ":"18/6/2020","username":"12345"}
 {"_id":{"$oid":"5eeaeac7280b0c86458f11e5"},"STT":40,"IDHĐ":"HD1724","IDProduct":"DF6","Quantity":1,"Price":44000,"TimeHĐ":"11:17:11","DateHĐ":"18/6/2020","username":"12345"}
-{"_id":{"$oid":"5eeaeafd280b0c86458f11ea"},"STT":41,"IDHĐ":"HD9984","IDProduct":"ES01","Quantity":1,"Price":25000,"TimeHĐ":"11:18:05","DateHĐ":"18/6/2020","username":"9999"}
-{"_id":{"$oid":"5eeaeafd280b0c86458f11eb"},"STT":42,"IDHĐ":"HD9984","IDProduct":"CF04","Quantity":1,"Price":20000,"TimeHĐ":"11:18:05","DateHĐ":"18/6/2020","username":"9999"}
-{"_id":{"$oid":"5eeaeafd280b0c86458f11ec"},"STT":43,"IDHĐ":"HD9984","IDProduct":"DF6","Quantity":1,"Price":29000,"TimeHĐ":"11:18:05","DateHĐ":"18/6/2020","username":"9999"}
 {"_id":{"$oid":"5eeaefa4280be70e5d63e52f"},"STT":44,"IDHĐ":"HD7121","IDProduct":"DF5","Quantity":1,"Price":29000,"TimeHĐ":"11:37:56","DateHĐ":"18/6/2020","username":"12345"}
