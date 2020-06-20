@@ -1,4 +1,5 @@
-{"_id":{"$oid":"5edbb29b4bb4d0f78fd23519"},"IDType":"T01","TypeName":"Cà Phê","Size":"Nhỏ"}
-{"_id":{"$oid":"5edbb29b4bb4d0f78fd2351c"},"IDType":"T02","TypeName":"Cà Phê","Size":"Vừa"}
-{"_id":{"$oid":"5edbb29b4bb4d0f78fd2351f"},"IDType":"T03","TypeName":"Cà Phê","Size":"Lớn"}
-{"_id":{"$oid":"5ee7901f280b6c29f81265a1"},"IDType":"T02","TypeName":"Kem","Size":"Vừa"}
+{ "_id" : { "$oid" : "5edbb29b4bb4d0f78fd23519" }, "IDType" : "T01", "TypeName" : "Cà Phê", "Size" : "Nhỏ" }
+{ "_id" : { "$oid" : "5edbb29b4bb4d0f78fd2351c" }, "IDType" : "T02", "TypeName" : "Cà Phê", "Size" : "Vừa" }
+{ "_id" : { "$oid" : "5edbb29b4bb4d0f78fd2351f" }, "IDType" : "T03", "TypeName" : "Cà Phê", "Size" : "Lớn" }
+{ "_id" : { "$oid" : "5ee7901f280b6c29f81265a1" }, "IDType" : "T02", "TypeName" : "Kem", "Size" : "Vừa" }
+{ "_id" : { "$oid" : "5eeb51d9cb06b4e0a8940873" }, "IDType" : "T02", "TypeName" : "Kem", "Size" : "Vừa" }

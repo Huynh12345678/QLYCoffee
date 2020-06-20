@@ -1,3 +1,3 @@
-{"_id":1,"username":"lexuanhuynh","password":"huynhzip3","NameEmp":"Lê Xuân Huynh","Gender":"Nam","Birthday":"1998/12/22","Phone":"0983923430","Email":"huynhlx62@wru.vn","Address":"Hà Nội"}
-{"_id":2,"username":"12345","password":"1234567","NameEmp":"Vẫn là Huynh nhưng acc khác","Gender":"Nữ","Birthday":"11/11/1998","Phone":"098765400","Email":"huynh@yahoo.com","Address":"Lào Cai"}
-{"_id":3,"username":"9999","password":"9999","NameEmp":"CON CẶC","Gender":"Nam","Birthday":"1998/12/12","Phone":"0987768767","Email":"huynhdz@outlook.com","Address":"Mù Căng Chải"}
+{ "_id" : 1, "username" : "lexuanhuynh", "password" : "huynhzip3", "NameEmp" : "Lê Xuân Huynh", "Gender" : "Nam", "Birthday" : "1998/12/22", "Phone" : "0983923430", "Email" : "huynhlx62@wru.vn", "Address" : "Hà Nội" }
+{ "_id" : 2, "username" : "12345", "password" : "1234567", "NameEmp" : "Vẫn là Huynh nhưng acc khác", "Gender" : "Nữ", "Birthday" : "11/11/1998", "Phone" : "098765400", "Email" : "huynh@yahoo.com", "Address" : "Lào Cai" }
+{ "_id" : 3, "username" : "9999", "password" : "9999", "NameEmp" : "CON CẶC", "Gender" : "Nam", "Birthday" : "1998/12/12", "Phone" : "0987768767", "Email" : "huynhdz@outlook.com", "Address" : "Mù Căng Chải" }

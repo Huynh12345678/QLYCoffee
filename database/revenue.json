@@ -1,7 +1,8 @@
-{"_id":{"$oid":"5ee35df8280bb5d764eec9e9"},"IDRevenue":1,"Date":"12/6/2020","Money":"945500"}
-{"_id":{"$oid":"5ee40637280bc383fb2824ae"},"IDRevenue":2,"Date":"13/6/2020","Money":"125000"}
-{"_id":{"$oid":"5ee6061b280b5590ef570f14"},"IDRevenue":3,"Date":"14/6/2020","Money":"45000"}
-{"_id":{"$oid":"5ee6f16d280b25b214ef4e05"},"IDRevenue":4,"Date":"15/6/2020","Money":"457600"}
-{"_id":{"$oid":"5ee8f648280bf791f634f5bc"},"IDRevenue":5,"Date":"16/6/2020","Money":"44000"}
-{"_id":{"$oid":"5ee9dd57dbf32ddebfb386d8"},"IDRevenue":6,"Date":"17/6/2020","Money":"157300"}
-{"_id":{"$oid":"5eeae603280b4ba53f529de7"},"IDRevenue":7,"Date":"18/6/2020","Money":"260550"}
+{ "_id" : { "$oid" : "5ee35df8280bb5d764eec9e9" }, "IDRevenue" : { "$numberLong" : "1" }, "Date" : "12/6/2020", "Money" : "945500" }
+{ "_id" : { "$oid" : "5ee40637280bc383fb2824ae" }, "IDRevenue" : { "$numberLong" : "2" }, "Date" : "13/6/2020", "Money" : "125000" }
+{ "_id" : { "$oid" : "5ee6061b280b5590ef570f14" }, "IDRevenue" : { "$numberLong" : "3" }, "Date" : "14/6/2020", "Money" : "45000" }
+{ "_id" : { "$oid" : "5ee6f16d280b25b214ef4e05" }, "IDRevenue" : { "$numberLong" : "4" }, "Date" : "15/6/2020", "Money" : "457600" }
+{ "_id" : { "$oid" : "5ee8f648280bf791f634f5bc" }, "IDRevenue" : { "$numberLong" : "5" }, "Date" : "16/6/2020", "Money" : "44000" }
+{ "_id" : { "$oid" : "5ee9dd57dbf32ddebfb386d8" }, "IDRevenue" : { "$numberLong" : "6" }, "Date" : "17/6/2020", "Money" : "157300" }
+{ "_id" : { "$oid" : "5eeae603280b4ba53f529de7" }, "IDRevenue" : { "$numberLong" : "7" }, "Date" : "18/6/2020", "Money" : "344900" }
+{ "_id" : { "$oid" : "5eee08ad3152f6ee7a753d80" }, "IDRevenue" : { "$numberLong" : "8" }, "Date" : "20/6/2020", "Money" : "103000" }

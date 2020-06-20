@@ -111,6 +111,8 @@ public class History extends javax.swing.JFrame {
                 DBCursor cursor = history.find();
 
                 DBObject ht = (DBObject) history.findOne(new BasicDBObject().append("STT", i + 1));
+//                DBObject ht = (DBObject) history.findOne(new BasicDBObject().append("STT", 1));
+
                 if (cursor.hasNext()) {
                     vec = new Vector();
                     vec.add(ht.get("IDHĐ"));
